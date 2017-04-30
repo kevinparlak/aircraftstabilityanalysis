@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  Tail and Elevator.cpp
+  Preliminary Output.cpp
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\preliminary output.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\preliminary output.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\preliminary output.cpp(83): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\preliminary output.cpp(93): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\preliminary output.cpp(103): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Detailed Output.cpp
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\detailed output.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\detailed output.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\detailed output.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\detailed output.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\detailed output.cpp(123): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Atmosphere.cpp
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\atmosphere.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\atmosphere.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\atmosphere.cpp(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Aircraft.cpp
+  Aircraft Stability AnalysisDlg.cpp
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(150): warning C4305: 'argument': truncation from '__int64' to 'float'
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(153): warning C4305: 'argument': truncation from '__int64' to 'float'
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(165): warning C4305: 'argument': truncation from '__int64' to 'float'
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(168): warning C4305: 'argument': truncation from '__int64' to 'float'
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(357): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(375): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(538): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(546): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(552): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(577): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(690): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\onedrive\documents\visual studio 2015\projects\aircraft stability analysis\aircraft stability analysis\aircraft stability analysisdlg.cpp(693): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Aircraft Stability Analysis.cpp
+  Generating Code...
+  Aircraft Stability Analysis.vcxproj -> C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\Aircraft Stability Analysis\x64\Debug\Aircraft Stability Analysis.exe
+  Aircraft Stability Analysis.vcxproj -> C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\Aircraft Stability Analysis\x64\Debug\Aircraft Stability Analysis.pdb (Partial PDB)

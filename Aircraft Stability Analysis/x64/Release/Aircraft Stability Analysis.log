@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2361): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2361): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int

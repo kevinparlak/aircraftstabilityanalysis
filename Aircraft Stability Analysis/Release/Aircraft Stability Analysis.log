@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  Aircraft Stability Analysis.cpp
+  Aircraft Stability AnalysisDlg.cpp
+Aircraft Stability AnalysisDlg.cpp(124): warning C4305: 'argument': truncation from '__int64' to 'float'
+Aircraft Stability AnalysisDlg.cpp(126): warning C4305: 'argument': truncation from '__int64' to 'float'
+Aircraft Stability AnalysisDlg.cpp(134): warning C4305: 'argument': truncation from '__int64' to 'float'
+Aircraft Stability AnalysisDlg.cpp(136): warning C4305: 'argument': truncation from '__int64' to 'float'
+Aircraft Stability AnalysisDlg.cpp(369): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Aircraft Stability AnalysisDlg.cpp(381): warning C4305: 'initializing': truncation from 'double' to 'float'
+Aircraft Stability AnalysisDlg.cpp(382): warning C4305: 'initializing': truncation from 'double' to 'float'
+Aircraft Stability AnalysisDlg.cpp(384): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Aircraft Stability AnalysisDlg.cpp(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Aircraft Stability AnalysisDlg.cpp(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Aircraft Stability AnalysisDlg.cpp(477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Aircraft Stability AnalysisDlg.cpp(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Aircraft Stability AnalysisDlg.cpp(487): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  172 of 274 functions (62.8%) were compiled, the rest were copied from previous compilation.
+    67 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Aircraft Stability Analysis.vcxproj -> C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\Aircraft Stability Analysis\Release\Aircraft Stability Analysis.exe
+  Aircraft Stability Analysis.vcxproj -> C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\Aircraft Stability Analysis\Release\Aircraft Stability Analysis.pdb (Full PDB)
